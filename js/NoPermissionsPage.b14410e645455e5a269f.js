@@ -1,2 +1,2 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[3],{454:function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a),r=t(11),i=t(419),o=t(424);n.default=Object(r.h)((function(){return c.a.createElement(i.Main,null,c.a.createElement(o.NotAuthorized,{serviceName:"Sample app"}))}))}}]);
-//# sourceMappingURL=NoPermissionsPage.87aa14711a1356bb16b2.js.map
+//# sourceMappingURL=NoPermissionsPage.b14410e645455e5a269f.js.map
