@@ -1,0 +1,12 @@
+{
+  "app_name": "ros",
+  "src_hash": "350765f41427d1e0a60a044ae15dae07b43398c9",
+  "src_tag": "",
+  "src_branch": "main",
+  "patternfly_dependencies": ["@patternfly/patternfly@4.10.31","@patternfly/react-core@4.79.2","@patternfly/react-table@4.19.24"],
+  "travis": {
+    "event_type": "push",
+    "build_number": "44",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/ros-frontend/builds/215634256"
+  }
+}
