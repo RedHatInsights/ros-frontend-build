@@ -1,12 +1,12 @@
 {
   "app_name": "ros",
-  "src_hash": "34b4896634ec66e379eb09f63055ab7e9f046571",
+  "src_hash": "389e56919f747ccafdaf3ae584afe391e6d84d40",
   "src_tag": "",
   "src_branch": "main",
   "patternfly_dependencies": ["@patternfly/patternfly@4.10.31","@patternfly/react-core@4.79.2","@patternfly/react-table@4.19.24"],
   "travis": {
     "event_type": "push",
-    "build_number": "54",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/ros-frontend/builds/216911221"
+    "build_number": "60",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/ros-frontend/builds/218529196"
   }
 }
