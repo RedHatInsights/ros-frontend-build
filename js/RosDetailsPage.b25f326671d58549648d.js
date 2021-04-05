@@ -1,0 +1,2 @@
+(self.webpackChunkros_frontend=self.webpackChunkros_frontend||[]).push([[669],{42871:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>o});var r=t(1427),u=t.n(r),l=t(16530),s=t(86350),c=t(20167);const o=(0,l.withRouter)((function(){return u().createElement(s.Z,null,u().createElement(c.Z,null))}))}}]);
+//# sourceMappingURL=RosDetailsPage.b25f326671d58549648d.js.map
