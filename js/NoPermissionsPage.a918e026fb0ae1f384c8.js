@@ -1,2 +1,0 @@
-(self.webpackChunkros_frontend=self.webpackChunkros_frontend||[]).push([[452],{3081:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>l});var r=t(1427),a=t.n(r),s=t(16530),u=t(86350),c=t(27839);const l=(0,s.withRouter)((function(){return a().createElement(u.Z,null,a().createElement(c.Z,{serviceName:"Sample app"}))}))}}]);
-//# sourceMappingURL=NoPermissionsPage.a918e026fb0ae1f384c8.js.map
