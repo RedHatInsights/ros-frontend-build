@@ -1,0 +1,2 @@
+(self.webpackChunkros_frontend=self.webpackChunkros_frontend||[]).push([[969],{8969:(s,e,n)=>{"use strict";n.d(e,{RC:()=>r,M4:()=>t,Up:()=>a,RM:()=>o,nV:()=>p,xP:()=>f});var r="/api/ros/v0",t="/systems",a="/rating",o=-1,p=0,f=1}}]);
+//# sourceMappingURL=969.bca006ba9711d0f06524.js.map
