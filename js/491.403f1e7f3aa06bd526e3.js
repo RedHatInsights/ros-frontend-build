@@ -1,2 +1,2 @@
 (self.webpackChunkros_frontend=self.webpackChunkros_frontend||[]).push([[491],{36491:(e,n,t)=>{"use strict";t.r(n);var r=t(1427),o=t.n(r),a=t(88696),l=t.n(a),c=t(16530),s=t(80962),u=t(30319),m=t(70718),d=t(83653);const f=function(){return o().createElement(s.Provider,{store:(0,u.S1)().getStore()},o().createElement(c.BrowserRouter,{basename:(0,d.Z)(window.location.pathname)},o().createElement(m.Z,null)))};l().render(o().createElement(f,null),document.getElementById("root"))}}]);
-//# sourceMappingURL=../sourcemaps/491.09fee824c9d6f2c03e4d.js.map
+//# sourceMappingURL=../sourcemaps/491.9e04d188888c3ba3a0c4.js.map
