@@ -1,2 +1,0 @@
-(self.webpackChunkros_frontend=self.webpackChunkros_frontend||[]).push([[374],{41374:(e,t,n)=>{"use strict";n.r(t),n.d(t,{default:()=>d});var r=n(1427),o=n.n(r),a=n(16530),s=n(80962),c=n(55206),l=n(46755),u=n(47109);const d=function(){return o().createElement(s.Provider,{store:(0,c.S1)().getStore()},o().createElement(a.BrowserRouter,{basename:(0,u.Z)(window.location.pathname)},o().createElement(l.Z,null)))}}}]);
-//# sourceMappingURL=374.d21abcb1ad2dd2693599.js.map
