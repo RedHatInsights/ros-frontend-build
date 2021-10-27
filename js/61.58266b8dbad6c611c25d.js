@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkros_frontend=self.webpackChunkros_frontend||[]).push([[61],{58061:(s,e,n)=>{n.d(e,{RC:()=>r,M4:()=>t,Up:()=>a,RM:()=>o,nV:()=>p,xP:()=>f});var r="/api/ros/v0",t="/systems",a="/rating",o=-1,p=0,f=1}}]);
