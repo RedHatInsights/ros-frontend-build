@@ -4,7 +4,9 @@
             "/apps/ros/ros.js"
         ],
         "modules": [
-            "/apps/ros/js/412.8d8fb9e5f15ba7435e9f.js"
+            "/apps/ros/js/419.1646232193426.9e74c7bd8421834a330c.js",
+            "/apps/ros/css/419.a03efa177f76b7fcc00d.css",
+            "/apps/ros/js/869.1646232193426.9e74c7bd8421834a330c.js"
         ]
     }
 }
