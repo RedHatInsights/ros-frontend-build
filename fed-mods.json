@@ -1,12 +1,12 @@
 {
     "ros": {
         "entry": [
-            "/apps/ros/ros.js"
+            "/beta/apps/ros/ros.js"
         ],
         "modules": [
-            "/apps/ros/js/419.1646141370107.48f2047036cf0a80ad23.js",
-            "/apps/ros/css/419.a03efa177f76b7fcc00d.css",
-            "/apps/ros/js/869.1646141370107.48f2047036cf0a80ad23.js"
+            "/beta/apps/ros/js/419.1646740940453.d0e1c1e1c5e30035e652.js",
+            "/beta/apps/ros/css/419.a03efa177f76b7fcc00d.css",
+            "/beta/apps/ros/js/869.1646740940453.d0e1c1e1c5e30035e652.js"
         ]
     }
 }
