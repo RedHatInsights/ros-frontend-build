@@ -1,13 +1,1 @@
-{
-    "ros": {
-        "entry": [
-            "/beta/apps/ros/ros.js"
-        ],
-        "modules": [
-            "/beta/apps/ros/js/13.0673fe53dbfc616918d5.js",
-            "/beta/apps/ros/css/13.6239473121bb82ddae99.css",
-            "/beta/apps/ros/js/880.0673fe53dbfc616918d5.js",
-            "/beta/apps/ros/css/880.1308752ff6d89db8903c.css"
-        ]
-    }
-}
+{"name":"ros","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/beta/apps/ros/","loadScripts":["ros.89a5eff607c0661bde0c.js"],"buildHash":"984e4e6fbb074c0a566300468fda7c8f"}
