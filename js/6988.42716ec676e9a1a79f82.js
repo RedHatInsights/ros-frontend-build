@@ -1,0 +1,2 @@
+(self.webpackChunkros=self.webpackChunkros||[]).push([[6988],{49045:(e,r,s)=>{"use strict";s.d(r,{N:()=>i});var n=s(47931);const i=(e,r,s)=>{let i;if(n.Sw){const{ResizeObserver:n}=window;if(e&&n){const t=new n((e=>{s?window.requestAnimationFrame((()=>{Array.isArray(e)&&e.length>0&&r()})):Array.isArray(e)&&e.length>0&&r()}));t.observe(e),i=()=>t.unobserve(e)}else window.addEventListener("resize",r),i=()=>window.removeEventListener("resize",r)}return()=>{i&&i()}}},92004:()=>{},23091:()=>{}}]);
+//# sourceMappingURL=../sourcemaps/6988.9d883622ed4a4bd39ee7d083d8a0265d.js.map
